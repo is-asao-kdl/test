@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # easy_ViTPose
 
 <head>
@@ -225,4 +226,6 @@ Feel free to open issues, pull requests and contribute on these TODOs.
 ## Reference
 Thanks to the VitPose authors and their official implementation [ViTAE-Transformer/ViTPose](https://github.com/ViTAE-Transformer/ViTPose).  
 The SORT code is taken from [abewley/sort](https://github.com/abewley/sort)
+=======
+>>>>>>> 0d328877b8df889ad8d873c8f129feea10236307
 # test
