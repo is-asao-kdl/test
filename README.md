@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-   <p>demp.pyが作成したプログラムです。実行してください:</p>
+<p>1. git clone https://github.com/is-asao-kdl/test.git</p>
+   <p>demp.pyが作成したプログラムです。python demo.pyで実行してください</p>
   <h1>python demo.py</h1>
 </head>
 
